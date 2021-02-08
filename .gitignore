@@ -30,3 +30,17 @@ cmake-build-debug/
 
 # Thumbnails
 ._*
+
+# IDE
+.vs/
+CMakeFiles/
+CMakeCache.txt
+install_manifest.txt
+*.dir/
+*.user
+*.sln
+*.cmake
+*.vcxproj
+*.vcxproj.filters
+Debug/
+Release/
